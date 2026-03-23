@@ -120,9 +120,6 @@ pyTelegramBotAPI
 threading
 pytz
 Установка
-Клонировать репозиторий:
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
 Установить зависимости:
 pip install pyTelegramBotAPI pytz
 Указать настройки в коде:
